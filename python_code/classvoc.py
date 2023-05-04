@@ -1,3 +1,8 @@
+'''
+This file creates an object class "MQ138", which is used to connect python functions to the MQ138's input of ammonia PPM
+It was sourced and adapted from https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ
+'''
+
 import time
 import math
 import automationhat

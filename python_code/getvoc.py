@@ -1,3 +1,7 @@
+'''
+This file implements functions for polling the MQ138 sensor and turning the class function output into measurements.
+'''
+
 from classvoc import *
 import time
 import automationhat

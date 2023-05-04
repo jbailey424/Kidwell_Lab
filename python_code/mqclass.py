@@ -1,3 +1,8 @@
+'''
+This file creates a placeholder object class "MQ", for easy inputting to create a new MQ class if another sensor is needed.
+It was sourced and adapted from https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ
+'''
+
 import time
 import math
 import automationhat

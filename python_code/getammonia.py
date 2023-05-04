@@ -1,3 +1,7 @@
+'''
+This file implements functions for polling the MQ137 sensor and turning the class function output into measurements.
+'''
+
 from classammonia import *
 import time
 

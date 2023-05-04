@@ -1,3 +1,7 @@
+'''
+This file implements functions for polling the SDS011 sensor and turning the class function output into measurements.
+'''
+
 from classpm import *
 import time
 

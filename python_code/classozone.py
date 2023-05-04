@@ -1,3 +1,7 @@
+'''
+This file creates an object class "MQ131", which is used to connect python functions to the MQ131's input of ozone PPB
+It was sourced and adapted from https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ
+'''
 import time
 import math
 import automationhat

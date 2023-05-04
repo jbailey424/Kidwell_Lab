@@ -1,3 +1,7 @@
+'''
+This file implements functions for polling the MQ131 sensor and turning the class function output into measurements.
+'''
+
 from classozone import *
 import time
 
